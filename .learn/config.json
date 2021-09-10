@@ -1,0 +1,352 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://salmon-lungfish-y7pgpcsv.ws-us16.gitpod.io",
+        "editor": {
+            "mode": "preview",
+            "agent": "gitpod",
+            "version": "1.0.69"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "https://3000-salmon-lungfish-y7pgpcsv.ws-us16.gitpod.io",
+        "language": "auto",
+        "grading": "isolated",
+        "exercisesPath": "./exercises",
+        "webpackTemplate": null,
+        "disableGrading": true,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "currentExercise": "09-Spectacular-login-form",
+    "slug": "html-forms-tutorial-exercises",
+    "title": "Learn how to use and interact with HTML Forms",
+    "description": "Form validations, inputs, textarea, date inputs, etc.",
+    "difficulty": "begginer",
+    "language": "html",
+    "skills": [
+        "html-forms"
+    ],
+    "repository": "https://github.com/4GeeksAcademy/html-forms-tutorial-exercises",
+    "session": 4384418113297223700,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "exercises/01-welcome",
+            "slug": "01-welcome",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "01-welcome",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/01-welcome/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-welcome/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 1,
+            "path": "exercises/02-hello-world",
+            "slug": "02-hello-world",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "index.html",
+            "title": "02-hello-world",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/02-hello-world/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-hello-world/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-hello-world/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02-hello-world/tests.js",
+                    "name": "tests.js",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 2,
+            "path": "exercises/03-Type-Radio",
+            "slug": "03-Type-Radio",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/03-Type-Radio/index.html",
+            "title": "03-Type-Radio",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/03-Type-Radio/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Type-Radio/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Type-Radio/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 3,
+            "path": "exercises/04-Replicate-simple-form",
+            "slug": "04-Replicate-simple-form",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/04-Replicate-simple-form/index.html",
+            "title": "04-Replicate-simple-form",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/04-Replicate-simple-form/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Replicate-simple-form/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Replicate-simple-form/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 4,
+            "path": "exercises/05-GET-vs-POST",
+            "slug": "05-GET-vs-POST",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/05-GET-vs-POST/index.html",
+            "title": "05-GET-vs-POST",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/05-GET-vs-POST/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-GET-vs-POST/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-GET-vs-POST/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/05-GET-vs-POST/style.css",
+                    "name": "style.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 5,
+            "path": "exercises/06-fieldsets-labels-and-styles",
+            "slug": "06-fieldsets-labels-and-styles",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/06-fieldsets-labels-and-styles/index.html",
+            "title": "06-fieldsets-labels-and-styles",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/06-fieldsets-labels-and-styles/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-fieldsets-labels-and-styles/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-fieldsets-labels-and-styles/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/06-fieldsets-labels-and-styles/style.css",
+                    "name": "style.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 6,
+            "path": "exercises/07-HTML-five-forms",
+            "slug": "07-HTML-five-forms",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/07-HTML-five-forms/index.html",
+            "title": "07-HTML-five-forms",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/07-HTML-five-forms/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-HTML-five-forms/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-HTML-five-forms/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07-HTML-five-forms/style.css",
+                    "name": "style.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 7,
+            "path": "exercises/08-Style-without-id-class",
+            "slug": "08-Style-without-id-class",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/08-Style-without-id-class/index.html",
+            "title": "08-Style-without-id-class",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/08-Style-without-id-class/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Style-without-id-class/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Style-without-id-class/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08-Style-without-id-class/style.css",
+                    "name": "style.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 8,
+            "path": "exercises/09-Spectacular-login-form",
+            "slug": "09-Spectacular-login-form",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": "exercises/09-Spectacular-login-form/index.html",
+            "title": "09-Spectacular-login-form",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/09-Spectacular-login-form/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Spectacular-login-form/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Spectacular-login-form/index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/09-Spectacular-login-form/style.css",
+                    "name": "style.css",
+                    "hidden": false
+                }
+            ],
+            "done": false
+        }
+    ]
+}
